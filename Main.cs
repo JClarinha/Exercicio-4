@@ -53,16 +53,29 @@ foreach (var item in exames)
 {
     while (item.notadoexame.notaexame != -1)
     {
-        System.Console.WriteLine("O estudante " + item.estudante.nome + " obteve a classificação de " + item.notadoexame.notaexame + " Valores!\n");
+        System.Console.WriteLine("\nO estudante " + item.estudante.nome + " obteve a classificação de " + item.notadoexame.notaexame + " Valores!\n");
         break;
     }
 
     if (item.notadoexame.notaexame == -1)
     {
         System.Console.WriteLine("Devido à falta de comparência do estudante " + item.estudante.nome + " ao exame, foi-lhe atribuido de forma automática a classificação de -1 valores \n");   
-
     }
 }
 
+/*
+foreach (var item in exames)
+{
+    if (item.notadoexame.notaexame != -1)
+    {
+        System.Console.WriteLine("O estudante " + item.estudante.nome + " obteve a classificação de " + item.notadoexame.notaexame + " Valores!\n"); 
+    }
+
+    else
+    {
+        System.Console.WriteLine("Devido à falta de comparência do estudante " + item.estudante.nome + " ao exame, foi-lhe atribuido de forma automática a classificação de -1 valores \n");   
+    }
+}
+*/
 
 
