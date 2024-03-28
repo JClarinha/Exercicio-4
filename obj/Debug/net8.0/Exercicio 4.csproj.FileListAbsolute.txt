@@ -12,3 +12,4 @@
 /Users/JoaoClarinha/Desktop/Rumos Training/Exercicio 4/obj/Debug/net8.0/Exercicio 4.pdb
 /Users/JoaoClarinha/Desktop/Rumos Training/Exercicio 4/obj/Debug/net8.0/Exercicio 4.genruntimeconfig.cache
 /Users/JoaoClarinha/Desktop/Rumos Training/Exercicio 4/obj/Debug/net8.0/ref/Exercicio 4.dll
+/Users/JoaoClarinha/Desktop/Rumos Training/Exercicio 4/obj/Debug/net8.0/Exercicio 4.sourcelink.json

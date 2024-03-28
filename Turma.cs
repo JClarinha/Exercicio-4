@@ -17,7 +17,7 @@ public class Turma{
     public void Display () {
         for (int i = 0; i < turma_1.Length; i++)
         {
-            System.Console.WriteLine(turma_1[i].nome); 
+            System.Console.WriteLine(turma_1[i].nome + "\n"); 
         }
     }
 
